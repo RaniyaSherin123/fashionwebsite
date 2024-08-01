@@ -1,0 +1,84 @@
+
+.container{
+    
+    justify-content:space-between;
+    
+    list-style-type:none;
+         
+    }
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 500;
+    overflow: hidden;
+    background-color:#333;
+    float: center;
+}
+li{
+    
+    float:left;
+    color: rgb(240, 236, 237);
+
+}
+li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #111;
+}
+
+.sub{ 
+    margin: 0%;
+    height: 100vh;
+
+    background-image: url(https://cdn.shopify.com/s/files/1/2303/2711/files/Fashion_Photography_for_E-Commerce_How_to_Capture_Your_Model_and_Clothing_in_the_Best_Light_2.jpg?v=1684706557);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.web{
+    color: white;
+    margin: 0;
+    padding: 500;
+    overflow: hidden;
+    text-align:center ;
+    background-color: rgb(39, 39, 39);
+}
+.webs{ 
+    margin: 0%;
+    height: 100vh;
+
+    background-image: url(https://i.pinimg.com/736x/41/1b/f9/411bf92ab7db3f5e560ff6899affecf7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.ser{
+    color: rgb(39, 35, 35);
+    margin: 0;
+    padding: 500;
+    overflow: hidden;
+    text-align:center ;
+    background-color: #cdc1c1;
+}
+.image-row{
+    display: flex;
+    justify-content: space-around;
+    background-color: #cdc1c1;
+}
+.sers{
+    color: rgb(39, 35, 35);
+    margin:0;
+    padding: 50px;
+    overflow: hidden;
+    text-align:center ;
+    background-color: #cdc1c1;
+}
